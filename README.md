@@ -32,4 +32,4 @@ Os passos acimas estando prontos, para rodar o servidor com a API é só rodar n
 
 	npm start
 
-byGabriel♥!
+byGabriel! ♥
